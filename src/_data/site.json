@@ -1,17 +1,20 @@
 {
     "author": {
-        "firstName": "WePourLight",
-        "lastName": "Smith",
+        "firstName": "wepourlight",
         "email": "someemail@email.com",
         "twitterHandle": "wepourlight",
-        "about": "Pleinair and studio paintings and illustrations from Wepourlight"
+        "caraHandle": "wepourlight",
+        "sketchbook": "",
+        "about": "Pleinair, studio paintings and illustrations"
     },
     "socials": {
-        "instagram": "https://www.instagram.com/wepourlight"
+        "instagram": "https://www.instagram.com/wepourlight",
+        "cara": "http://cara.app/wepourlight",
+        "sketchbook": "https://mmm.page/wepourlight"
     },
     "pageMetadata": {
         "home": {
-            "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
+            "content": "pagemetadata.home.content"
         },
         "gallery": {
             "content": "A collection of images from WePourLight's gallery."
